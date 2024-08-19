@@ -7,7 +7,7 @@ Web development student
 I started my studies with html, css and javascript and I seek to grow in frontend development and then enter the backend world and become a fullstack developer.
 
 * 🌍  I live in Maranhão, Brasil.
-* ✉️  You can contact me at [isacwesley@protonmail.com](mailto:isacwesley@proton.me)
+* ✉️  You can contact me at [isacwesley@proton.me](mailto:isacwesley@proton.me)
 * 🧠  I'm learning html, css, javascript and java.
 
 ### Socials
